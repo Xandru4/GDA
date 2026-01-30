@@ -1,2 +1,2 @@
-Projet de Master pour le mettre en ligne!
-[xandru4.github.io/GDA](https://xandru4.github.io/GDA/)
+_Projet de Master GDA du cours de Giovanni Pietro Vitali_
+# Les données de l'Académie Internationale d'Histoire des Sciences
